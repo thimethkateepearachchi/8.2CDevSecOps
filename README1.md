@@ -1,2 +1,2 @@
-# Nirmal
 # Thimeth
+# Thimeth Nethmin
